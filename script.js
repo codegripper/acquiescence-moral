@@ -121,5 +121,5 @@ document.addEventListener('click', function(e) {
 });
 
 // Console message
-console.log('%c🔥 Acquiescence and Karmic Responsibility', 'color: #6366f1; font-size: 20px; font-weight: bold;');
+console.log('%c🔥 Acquiescence and Moral Responsibility', 'color: #6366f1; font-size: 20px; font-weight: bold;');
 console.log('%cExploring the power of silence and passive consent.', 'color: #8b5cf6; font-size: 14px;');

@@ -29,7 +29,7 @@ function submitReflection() {
                 <h5 class="alert-heading">Moral Warning Perspective</h5>
                 <p>You see this as a call to action — a reminder that silence in the face of wrongdoing is itself a choice with consequences. This perspective emphasizes personal agency and the ethical duty to speak up.</p>
                 <hr>
-                <p class="mb-0"><strong>Key insight:</strong> "The only thing necessary for the triumph of evil is for good people to do nothing." - Often attributed to Edmund Burke</p>
+                <p class="mb-0"><strong>Key insight:</strong> "The only thing necessary for the triumph of evil is for good people to do nothing." - Often attributed to Edwin Burke</p>
             </div>
         `;
     } else if (perspective === 'spiritual') {
@@ -38,7 +38,7 @@ function submitReflection() {
                 <h5 class="alert-heading">Spiritual Law Perspective</h5>
                 <p>You recognize this as a universal principle — that the cosmos itself responds to both action and inaction. This view suggests that energetic alignment occurs regardless of conscious intent.</p>
                 <hr>
-                <p class="mb-0"><strong>Key insight:</strong> Your energetic signature is shaped not only by what you do, but by what you allow to happen in your presence.</p>
+                <p class="mb-0"><strong>Key insight:</strong> Key insight: Your energy is influenced not only by your actions, but also by what you let unfold in your surroundings.</p>
             </div>
         `;
     }
